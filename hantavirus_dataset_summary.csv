@@ -1,0 +1,15 @@
+Virus,Sequence_alignment,Phylogenetic_tree,Labelled_phylogenetic_tree,Conversion_file,Reference_file,Number_of_mutations
+Andes virus,ANDV_aligned.fasta,ANDV_rooted.nwk,NA,conversion.txt,reference.fasta,3560
+Cao Bang virus,CBNV_aligned.fasta,CBNV_rooted.nwk,CBNV_rooted_labelled,conversion.txt,reference.fasta,1720
+Dobrava-Belgrade virus,SAAV_aligned.fasta,SAAV_rooted.nwk,NA,conversion.txt,reference.fasta,3423
+Hantaan virus,HTNV_aligned.fasta,HTNV_rooted.nwk,NA,conversion.txt,reference.fasta,10299
+Imjin virus,MJNV_aligned.fasta,MJNV_rooted.nwk,NA,conversion.txt,reference.fasta,926
+Khabarovsk virus,KHAV_aligned.fasta,KHAV_rooted.nwk,NA,conversion.txt,reference.fasta,623
+Muju virus,PUMV_aligned.fasta,PUMV_rooted.nwk,PUMV_rooted_labelled.nwk,conversion.txt,reference.fasta,1057
+Nova virus,NVAV_aligned.fasta,NVAV_rooted.nwk,NA,conversion.txt,reference.fasta,2125
+Puumala virus,PUMV_aligned.fasta,PUMV_rooted.nwk,PUMV_rooted_labelled.nwk,conversion.txt,reference.fasta,9229
+Seoul virus,SEOV_aligned.fasta,SEOV_rooted.nwk,NA,conversion.txt,reference.fasta,7219
+Sin Nombre virus,SNV_aligned.fasta,SNV_rooted.nwk,SNV_rooted_labelled.nwk,conversion.txt,reference.fasta,2928
+Thailand virus,THAIV_aligned.fasta,THAIV_rooted.nwk,NA,conversion.txt,reference.fasta,1371
+Thottapalayam virus,TPMV_aligned.fasta,TPMV_rooted.nwk,NA,conversion.txt,reference.fasta,928
+Tula virus,TULV_aligned.fasta,TULV_rooted.nwk,NA,conversion.txt,reference.fasta,6578
